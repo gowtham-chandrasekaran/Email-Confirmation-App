@@ -1,5 +1,4 @@
 # Email-Confirmation-App
-# Sending-Confirmation-email
 A full stack app that will send a confirmation email to the received emailID and also add the emailID to the SQL DB
 
 # Tech Stack Used
